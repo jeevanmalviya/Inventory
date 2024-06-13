@@ -1,0 +1,2 @@
+# Inventory
+Normal CURD Project
